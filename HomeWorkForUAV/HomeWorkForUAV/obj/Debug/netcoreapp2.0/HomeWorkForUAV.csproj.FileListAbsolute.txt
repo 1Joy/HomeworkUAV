@@ -1,0 +1,11 @@
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\bin\Debug\netcoreapp2.0\HomeWorkForUAV.deps.json
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\bin\Debug\netcoreapp2.0\HomeWorkForUAV.runtimeconfig.json
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\bin\Debug\netcoreapp2.0\HomeWorkForUAV.runtimeconfig.dev.json
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\bin\Debug\netcoreapp2.0\HomeWorkForUAV.dll
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\bin\Debug\netcoreapp2.0\HomeWorkForUAV.pdb
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\obj\Debug\netcoreapp2.0\HomeWorkForUAV.csprojResolveAssemblyReference.cache
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\obj\Debug\netcoreapp2.0\HomeWorkForUAV.csproj.CoreCompileInputs.cache
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\obj\Debug\netcoreapp2.0\HomeWorkForUAV.AssemblyInfoInputs.cache
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\obj\Debug\netcoreapp2.0\HomeWorkForUAV.AssemblyInfo.cs
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\obj\Debug\netcoreapp2.0\HomeWorkForUAV.dll
+F:\c#\c#\c#\Joy\HomeWorkForUAV\HomeWorkForUAV\obj\Debug\netcoreapp2.0\HomeWorkForUAV.pdb
